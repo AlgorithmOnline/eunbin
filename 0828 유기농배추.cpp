@@ -12,7 +12,6 @@ void dfs(int x, int y) {
 		if (arr[nx][ny] == 0 || visited[nx][ny] != 0)continue;
 		visited[nx][ny] = 1;
 		dfs(nx, ny);
-
 	}
 	return;
 }
