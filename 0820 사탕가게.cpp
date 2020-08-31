@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+
 int n, c,dp[10001];
 double m, p;
 
