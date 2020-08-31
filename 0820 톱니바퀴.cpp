@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+
 int t, a[1004][8], k,ans;
 void rotate(int n, int d) {
 	int tp[8] = { 0 };
