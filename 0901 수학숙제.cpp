@@ -37,4 +37,5 @@ int main()
     }
     sort(v.begin(), v.end(), comp);
     for (string i : v) cout << i << "\n";
+    
 }
