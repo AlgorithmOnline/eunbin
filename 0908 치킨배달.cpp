@@ -3,7 +3,6 @@
 #include <cstdlib>
 #include <algorithm>
 using namespace std;
-
 int N, M,a[54][54],INF=987654321;
 vector<pair<int,int>> chickList, homeList;
 vector<vector<int>> realChick;
