@@ -4,7 +4,6 @@
 #include <algorithm>
 
 using namespace std;
-
 int n, m, dy[4] = { -1,1,0,0 }, dx[4] = { 0,0,-1,1 }, mx, v[100][100];
 char a[100][100];
 int bfs(int y, int x) {
